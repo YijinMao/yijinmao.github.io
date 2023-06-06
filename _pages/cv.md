@@ -26,7 +26,7 @@ Academic records
 * Bachelor in [Sichuan Normal University (四川师范大学)](http://english.sicnu.edu.cn/EnglishIndex/webindex), Chengdu, CHN
   * GPA: 3.64/4.0 [[details (EN)]](https://yijinmao.github.io/files/SICNU-GPA-EN.pdf) [[details (CN)]](https://yijinmao.github.io/files/SICNU-GPA-CN.pdf) 
   * Average score: 87.22
-  * Rank: [11/98]
+  * Rank: 11/98
 
 Awards & Honors
 ------
