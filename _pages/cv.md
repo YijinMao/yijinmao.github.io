@@ -43,7 +43,7 @@ Awards & Honors
 
 Skills
 ------
-* **Programming:** Matlab, Python, Pytorch, Linux, Shell (Bash), \LaTeX (Overleaf)
+* **Programming:** Matlab, Python, Pytorch, Linux, Shell (Bash), LaTeX (Overleaf)
 * **Languages:** Chinese, English
 * **Software:** Office, Zotero, Git
 
