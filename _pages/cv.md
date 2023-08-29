@@ -54,8 +54,6 @@ Publications
 <li><p> <b>Adaptive nonlinear group delay mode estimation</b><br>
 <b>Yijin Mao</b>, and Xiaotong Tu, Saqlain Abbas,  Hao Liang, Yue, Huang, Xinghao Ding<br>
 <i>The Journal of the Signal Processing</i>, 2023 <br>
-<a href="https://doi.org/10.1016/j.sigpro.2023.109181" class="textlink" target="_blank">[pdf]</a>
-<a href="https://github.com/YijinMao/ANGDME" class="textlink" target="_blank">[codes]</a>
 </p>
 </li>
 
