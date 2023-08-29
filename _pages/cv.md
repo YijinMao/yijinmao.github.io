@@ -52,7 +52,7 @@ Publications
 <ol>
 
 <li><p> <b>Adaptive nonlinear group delay mode estimation</b><br>
-<b>Yijin Mao</b>, and Xiaotong Tu, Saqlain Abbas,  Hao Liang, Yue, Huang, Xinghao Ding<br>
+<b>Yijin Mao</b>, Xiaotong Tu*, Saqlain Abbas,  Hao Liang, Yue, Huang, Xinghao Ding<br>
 <i>The Journal of the Signal Processing</i>, 2023 <br>
 </p>
 </li>
@@ -60,6 +60,12 @@ Publications
 <li><p> <b>Domain generalization on medical imaging classification using episodic training with task augmentation</b><br>
 Chenxin Li, Xin Lin, <b>Yijin Mao</b>, Wei Lin, Qi Qi, Xinghao Ding, Yue Huang, Dong Liang, Yizhou Yu<br>
 <i>The Journal of the Computers in Biology and Medicine</i>, 2022 <br>
+</p>
+</li>
+
+<li><p> <b>Multi-Information-Aware Speech Enhancement through Self-Supervised Learning</b><br>
+<b>Yijin Mao</b>, Yonghua Zhang, Huangxin Lin, Xiaotong Tu*, Saqlain Abbas,  Hao Liang, Yue, Huang, Xinghao Ding<br>
+<i>Submitted to The Journal of the Knowledge-Based System</i>, 2023 <br>
 </p>
 </li>
 
