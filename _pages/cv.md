@@ -30,6 +30,7 @@ Academic records
 
 Awards & Honors
 ------
+* **National Scholarship**, Xiamen University, 2023
 * **Outstanding Graduate Students**, Xiamen University, 2022
 * **Outstanding Graduates**, Sichaun Normal University, 2021
 * **National Encouragement Scholarship**, Sichaun Normal University, 2020
@@ -44,7 +45,7 @@ Awards & Honors
 Skills
 ------
 * **Programming:** Matlab, Python, Pytorch, Linux, Shell (Bash), LaTeX (Overleaf)
-* **Languages:** Chinese, English
+* **Languages:** Chinese, English (IELTS 6.5)
 * **Software:** Office, Zotero, Git
 
 Publications
